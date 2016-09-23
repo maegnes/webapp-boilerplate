@@ -1,0 +1,21 @@
+{
+  "name": "webapp-boilerplate",
+  "description": "simple boilerplate for webapps",
+  "main": "",
+  "authors": [
+    "Magnus Buk <MagnusBuk@gmx.de>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/maegnes/webapp-boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~3.1.1",
+    "bootstrap": "~3.3.7"
+  }
+}
