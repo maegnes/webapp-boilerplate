@@ -1,0 +1,22 @@
+/*
+* Style.css template
+* Author: Magnus Buk <info@magnusbuk.de>
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,800);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,400italic,300italic);
+
+@font-face {
+  font-family: 'notessoft-regularregular';
+  src: url('../fonts/notessoft/primetype_-_notessoft-regular-webfont.eot');
+  src: url('../fonts/notessoft/primetype_-_notessoft-regular-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/notessoft/primetype_-_notessoft-regular-webfont.woff2') format('woff2'),
+  url('../fonts/notessoft/primetype_-_notessoft-regular-webfont.woff') format('woff'),
+  url('../fonts/notessoft/primetype_-_notessoft-regular-webfont.ttf') format('truetype'),
+  url('../fonts/notessoft/primetype_-_notessoft-regular-webfont.svg#notessoft-regularregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@import "_variables";
+@import "_base";
